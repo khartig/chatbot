@@ -1,0 +1,2 @@
+model_checkpoint_path: "/Users/khartig/Projects/chatbot/model.tflearn"
+all_model_checkpoint_paths: "/Users/khartig/Projects/chatbot/model.tflearn"
