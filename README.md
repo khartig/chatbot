@@ -4,5 +4,5 @@ Code, model data and a mongodump of the MongoDB documents used for the chatbot b
 <ul>
   <li>loadIntents.py - creates the predictive model for chatbot intents</li>
   <li>chatbotFramework.py - runs the chatbot. loads the model and accepts user input for a dialog</li>
-  <li>db - contains exported MongoDB intent documents used in the eample</li>
+  <li>db - contains exported MongoDB intent documents used in the example</li>
 </ul>
